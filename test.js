@@ -1,1 +1,1 @@
-console.console.log("Document From Ahmed");
+console.log("Document From Ahmed");
